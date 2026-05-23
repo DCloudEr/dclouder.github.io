@@ -1,10 +1,10 @@
 ## 🌐 Aplicação Online (Live Demo)
 
-[![Website](https://img.shields.io/badge/Website-Online-green?style=for-the-badge&logo=github)](https://dclouder.github.io/LTFACIL/)
+[![Website](https://img.shields.io/badge/Website-Online-green?style=for-the-badge&logo=github)](https://dclouder.github.io/LTFACIL.HTML/)
 
 O **Gerador Lotofácil Profissional** está hospedado e funcionando diretamente no navegador! 
 
-👉 **[Clique aqui para acessar o gerador em tempo real](https://dclouder.github.io/LTFACIL/)**
+👉 **[Clique aqui para acessar o gerador em tempo real](https://dclouder.github.io/LTFACIL.HTML/)**
 
 ---
 
